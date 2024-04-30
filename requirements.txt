@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+cv2
+keras
+pathlib
+PIL
